@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P1_L0_EXT/ext.xst" -ofn "C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P1_L0_EXT/ext.syr" 
+xst -intstyle ise -ifn "C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P1_L0_EXT/ext.xst" -ofn "C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P1_L0_EXT/ext.syr" 

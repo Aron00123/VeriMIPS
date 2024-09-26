@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated   -->
+<!--     by the Xilinx ISE software.  Any direct editing or        -->
+<!--     changes made to this file may result in unpredictable     -->
+<!--     behavior or data corruption.  It is strongly advised that -->
+<!--     users do not edit the contents of this file.              -->
+<!--                                                               -->
+<!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.    -->
+
+<messages>
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_test_2023_jalrr/ALU.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_test_2023_jalrr/CMP.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_test_2023_jalrr/CMP.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_test_2023_jalrr/InStrType.v&apos; in file &quot;C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_test_2023_jalrr/CMP.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_test_2023_jalrr/Controller.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_test_2023_jalrr/Controller.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_test_2023_jalrr/InStrType.v&apos; in file &quot;C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_test_2023_jalrr/Controller.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_test_2023_jalrr/DM.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_test_2023_jalrr/D_REG.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_test_2023_jalrr/D_REG.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_test_2023_jalrr/InStrType.v&apos; in file &quot;C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_test_2023_jalrr/D_REG.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_test_2023_jalrr/EXT.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_test_2023_jalrr/E_REG.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_test_2023_jalrr/GRF.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_test_2023_jalrr/IFU.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_test_2023_jalrr/M_REG.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_test_2023_jalrr/NPC.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_test_2023_jalrr/NPC.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_test_2023_jalrr/InStrType.v&apos; in file &quot;C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_test_2023_jalrr/NPC.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_test_2023_jalrr/STALL.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_test_2023_jalrr/W_REG.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_test_2023_jalrr/mips.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_test_2023_jalrr/mips.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_test_2023_jalrr/InStrType.v&apos; in file &quot;C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_test_2023_jalrr/mips.v&quot; line 1
+</arg>
+</msg>
+
+</messages>
+

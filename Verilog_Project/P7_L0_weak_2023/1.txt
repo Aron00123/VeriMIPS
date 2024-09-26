@@ -1,0 +1,18 @@
+    W_REG w_reg (
+        .clk(clk),
+        .reset(reset),
+        .M_PC(M_PC),
+        .M_inStr(M_inStr),
+        .M_PC8(M_PC8),
+        .M_writeReg_NUM(M_writeReg_NUM),
+        .M_dataOUT(M_dataOUT),
+        .M_aluResult(M_aluResult),
+        .M_isBranch(M_isBranch),
+        .W_PC(W_PC),
+        .W_inStr(W_inStr),
+        .W_PC8(W_PC8),
+        .W_writeReg_NUM(W_writeReg_NUM),
+        .W_dataOUT(W_dataOUT),
+        .W_aluResult(W_aluResult),
+        .W_isBranch(W_isBranch)
+    );

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated   -->
+<!--     by the Xilinx ISE software.  Any direct editing or        -->
+<!--     changes made to this file may result in unpredictable     -->
+<!--     behavior or data corruption.  It is strongly advised that -->
+<!--     users do not edit the contents of this file.              -->
+<!--                                                               -->
+<!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.    -->
+
+<messages>
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P6_L0_weak_2023/ALU.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P6_L0_weak_2023/CMP.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P6_L0_weak_2023/CMP.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P6_L0_weak_2023/InStrType.v&apos; in file &quot;C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P6_L0_weak_2023/CMP.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P6_L0_weak_2023/Controller.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P6_L0_weak_2023/Controller.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P6_L0_weak_2023/InStrType.v&apos; in file &quot;C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P6_L0_weak_2023/Controller.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P6_L0_weak_2023/DM.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P6_L0_weak_2023/DM.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P6_L0_weak_2023/InStrType.v&apos; in file &quot;C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P6_L0_weak_2023/DM.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P6_L0_weak_2023/D_REG.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P6_L0_weak_2023/D_REG.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P6_L0_weak_2023/InStrType.v&apos; in file &quot;C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P6_L0_weak_2023/D_REG.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P6_L0_weak_2023/EXT.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P6_L0_weak_2023/E_REG.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P6_L0_weak_2023/GRF.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P6_L0_weak_2023/IFU.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P6_L0_weak_2023/MUDI.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P6_L0_weak_2023/MUDI.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P6_L0_weak_2023/InStrType.v&apos; in file &quot;C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P6_L0_weak_2023/MUDI.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P6_L0_weak_2023/M_REG.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P6_L0_weak_2023/NPC.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P6_L0_weak_2023/NPC.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P6_L0_weak_2023/InStrType.v&apos; in file &quot;C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P6_L0_weak_2023/NPC.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P6_L0_weak_2023/STALL.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P6_L0_weak_2023/W_REG.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P6_L0_weak_2023/mips.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P6_L0_weak_2023/mips.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P6_L0_weak_2023/InStrType.v&apos; in file &quot;C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P6_L0_weak_2023/mips.v&quot; line 1
+</arg>
+</msg>
+
+</messages>
+

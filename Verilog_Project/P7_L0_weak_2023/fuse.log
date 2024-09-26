@@ -1,0 +1,57 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -o C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P7_L0_weak_2023/mips_txt_isim_beh.exe -prj C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P7_L0_weak_2023/mips_txt_beh.prj work.mips_txt work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 20
+Turning on mult-threading, number of parallel sub-compilation jobs: 40 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P7_L0_weak_2023/W_REG.v" into library work
+Analyzing Verilog file "C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P7_L0_weak_2023/STALL.v" into library work
+Analyzing Verilog file "C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P7_L0_weak_2023/NPC.v" into library work
+Analyzing Verilog file "C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P7_L0_weak_2023/M_REG.v" into library work
+Analyzing Verilog file "C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P7_L0_weak_2023/MUDI.v" into library work
+Analyzing Verilog file "C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P7_L0_weak_2023/MCHECK.v" into library work
+Analyzing Verilog file "C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P7_L0_weak_2023/IFU.v" into library work
+Analyzing Verilog file "C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P7_L0_weak_2023/GRF.v" into library work
+Analyzing Verilog file "C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P7_L0_weak_2023/E_REG.v" into library work
+Analyzing Verilog file "C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P7_L0_weak_2023/EXT.v" into library work
+Analyzing Verilog file "C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P7_L0_weak_2023/D_REG.v" into library work
+Analyzing Verilog file "C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P7_L0_weak_2023/DM.v" into library work
+Analyzing Verilog file "C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P7_L0_weak_2023/CP0.v" into library work
+Analyzing Verilog file "C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P7_L0_weak_2023/Controller.v" into library work
+Analyzing Verilog file "C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P7_L0_weak_2023/CMP.v" into library work
+Analyzing Verilog file "C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P7_L0_weak_2023/ALU.v" into library work
+Analyzing Verilog file "C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P7_L0_weak_2023/TIMER.v" into library work
+Analyzing Verilog file "C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P7_L0_weak_2023/CPU.v" into library work
+Analyzing Verilog file "C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P7_L0_weak_2023/BRIDGE.v" into library work
+Analyzing Verilog file "C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P7_L0_weak_2023/mips.v" into library work
+Analyzing Verilog file "C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P7_L0_weak_2023/mips_tb.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module IFU
+Compiling module NPC
+Compiling module D_REG
+Compiling module Controller
+Compiling module EXT
+Compiling module GRF
+Compiling module CMP
+Compiling module E_REG
+Compiling module ALU
+Compiling module MUDI
+Compiling module M_REG
+Compiling module MCHECK
+Compiling module CP0
+Compiling module DM
+Compiling module W_REG
+Compiling module STALL
+Compiling module CPU
+Compiling module BRIDGE
+Compiling module TC
+Compiling module mips
+Compiling module mips_txt
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 22 Verilog Units
+Built simulation executable C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P7_L0_weak_2023/mips_txt_isim_beh.exe
+Fuse Memory Usage: 34140 KB
+Fuse CPU Usage: 77 ms

@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P6_L0_weak_2023_FASTER/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P6_L0_weak_2023_FASTER/xst"
+elaborate
+-ifn STALL.prj
+-ifmt mixed

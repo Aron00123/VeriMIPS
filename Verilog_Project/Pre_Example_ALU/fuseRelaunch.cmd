@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/Aron_/Desktop/CO/Verilog_Project/Example_ALU/assignALU_isim_beh.exe" -prj "C:/Users/Aron_/Desktop/CO/Verilog_Project/Example_ALU/assignALU_beh.prj" "work.assignALU" "work.glbl" 

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P1_L1_BlockChecker/BlockChecker_tb_isim_beh.exe" -prj "C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P1_L1_BlockChecker/BlockChecker_tb_beh.prj" "BlockChecker_tb" "work.glbl" 

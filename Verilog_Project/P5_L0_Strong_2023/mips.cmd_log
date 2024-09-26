@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_Strong_2023/mips.xst" -ofn "C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_Strong_2023/mips.syr" 

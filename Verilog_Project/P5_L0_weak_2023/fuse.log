@@ -1,0 +1,59 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -o C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_weak_2023/mips_tb_isim_beh.exe -prj C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_weak_2023/mips_tb_beh.prj work.mips_tb work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 20
+Turning on mult-threading, number of parallel sub-compilation jobs: 40 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_weak_2023/W_REG.v" into library work
+Analyzing Verilog file "C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_weak_2023/STOP.v" into library work
+Analyzing Verilog file "C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_weak_2023/NPC.v" into library work
+Analyzing Verilog file "C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_weak_2023/M_REG.v" into library work
+Analyzing Verilog file "C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_weak_2023/MUX.v" into library work
+Analyzing Verilog file "C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_weak_2023/IFU.v" into library work
+Analyzing Verilog file "C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_weak_2023/GRF.v" into library work
+Analyzing Verilog file "C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_weak_2023/E_REG.v" into library work
+Analyzing Verilog file "C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_weak_2023/EXT.v" into library work
+Analyzing Verilog file "C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_weak_2023/D_REG.v" into library work
+Analyzing Verilog file "C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_weak_2023/DM.v" into library work
+WARNING:HDLCompiler:327 - "C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_weak_2023/DM.v" Line 68: Concatenation with unsized literal; will interpret as 32 bits
+WARNING:HDLCompiler:327 - "C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_weak_2023/DM.v" Line 69: Concatenation with unsized literal; will interpret as 32 bits
+WARNING:HDLCompiler:327 - "C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_weak_2023/DM.v" Line 70: Concatenation with unsized literal; will interpret as 32 bits
+WARNING:HDLCompiler:327 - "C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_weak_2023/DM.v" Line 71: Concatenation with unsized literal; will interpret as 32 bits
+Analyzing Verilog file "C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_weak_2023/Controller.v" into library work
+Analyzing Verilog file "C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_weak_2023/CMP.v" into library work
+Analyzing Verilog file "C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_weak_2023/ALU.v" into library work
+Analyzing Verilog file "C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_weak_2023/mips.v" into library work
+Analyzing Verilog file "C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_weak_2023/mips_tb.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:189 - "C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_weak_2023/mips.v" Line 337: Size mismatch in connection of port <regDst>. Formal port size is 2-bit while actual signal size is 1-bit.
+WARNING:HDLCompiler:327 - "C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_weak_2023/DM.v" Line 68: Concatenation with unsized literal; will interpret as 32 bits
+WARNING:HDLCompiler:327 - "C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_weak_2023/DM.v" Line 69: Concatenation with unsized literal; will interpret as 32 bits
+WARNING:HDLCompiler:327 - "C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_weak_2023/DM.v" Line 70: Concatenation with unsized literal; will interpret as 32 bits
+WARNING:HDLCompiler:327 - "C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_weak_2023/DM.v" Line 71: Concatenation with unsized literal; will interpret as 32 bits
+Completed static elaboration
+Compiling module IFU
+Compiling module NPC
+Compiling module D_REG
+Compiling module Controller
+Compiling module EXT
+Compiling module mux5Bit_3
+Compiling module GRF
+Compiling module transMUX_rd
+Compiling module CMP
+Compiling module E_REG
+Compiling module transMUX_aluSrc
+Compiling module ALU
+Compiling module M_REG
+Compiling module transMUX_memWriteData
+Compiling module DM
+Compiling module W_REG
+Compiling module STOP
+Compiling module mips
+Compiling module mips_tb
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 20 Verilog Units
+Built simulation executable C:/Users/Aron_/Desktop/lessons/SecondYear1/CO/Verilog_Project/P5_L0_weak_2023/mips_tb_isim_beh.exe
+Fuse Memory Usage: 32000 KB
+Fuse CPU Usage: 62 ms

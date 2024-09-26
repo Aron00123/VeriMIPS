@@ -1,0 +1,44 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -nodebug -prj mips.prj -o mips.exe generated_mips_test 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 20
+Turning on mult-threading, number of parallel sub-compilation jobs: 40 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:\Users\Aron_\Desktop\lessons\SecondYear1\CO\Verilog_Project\P5_L0_test_2023_bltzal/ALU.v" into library work
+Analyzing Verilog file "C:\Users\Aron_\Desktop\lessons\SecondYear1\CO\Verilog_Project\P5_L0_test_2023_bltzal/CMP.v" into library work
+Analyzing Verilog file "C:\Users\Aron_\Desktop\lessons\SecondYear1\CO\Verilog_Project\P5_L0_test_2023_bltzal/Controller.v" into library work
+Analyzing Verilog file "C:\Users\Aron_\Desktop\lessons\SecondYear1\CO\Verilog_Project\P5_L0_test_2023_bltzal/DM.v" into library work
+Analyzing Verilog file "C:\Users\Aron_\Desktop\lessons\SecondYear1\CO\Verilog_Project\P5_L0_test_2023_bltzal/D_REG.v" into library work
+Analyzing Verilog file "C:\Users\Aron_\Desktop\lessons\SecondYear1\CO\Verilog_Project\P5_L0_test_2023_bltzal/EXT.v" into library work
+Analyzing Verilog file "C:\Users\Aron_\Desktop\lessons\SecondYear1\CO\Verilog_Project\P5_L0_test_2023_bltzal/E_REG.v" into library work
+Analyzing Verilog file "C:\Users\Aron_\Desktop\lessons\SecondYear1\CO\Verilog_Project\P5_L0_test_2023_bltzal/generated_mips_test.v" into library work
+Analyzing Verilog file "C:\Users\Aron_\Desktop\lessons\SecondYear1\CO\Verilog_Project\P5_L0_test_2023_bltzal/GRF.v" into library work
+Analyzing Verilog file "C:\Users\Aron_\Desktop\lessons\SecondYear1\CO\Verilog_Project\P5_L0_test_2023_bltzal/IFU.v" into library work
+Analyzing Verilog file "C:\Users\Aron_\Desktop\lessons\SecondYear1\CO\Verilog_Project\P5_L0_test_2023_bltzal/InStrType.v" into library work
+Analyzing Verilog file "C:\Users\Aron_\Desktop\lessons\SecondYear1\CO\Verilog_Project\P5_L0_test_2023_bltzal/mips.v" into library work
+Analyzing Verilog file "C:\Users\Aron_\Desktop\lessons\SecondYear1\CO\Verilog_Project\P5_L0_test_2023_bltzal/mips_tb.v" into library work
+Analyzing Verilog file "C:\Users\Aron_\Desktop\lessons\SecondYear1\CO\Verilog_Project\P5_L0_test_2023_bltzal/M_REG.v" into library work
+Analyzing Verilog file "C:\Users\Aron_\Desktop\lessons\SecondYear1\CO\Verilog_Project\P5_L0_test_2023_bltzal/NPC.v" into library work
+Analyzing Verilog file "C:\Users\Aron_\Desktop\lessons\SecondYear1\CO\Verilog_Project\P5_L0_test_2023_bltzal/STALL.v" into library work
+Analyzing Verilog file "C:\Users\Aron_\Desktop\lessons\SecondYear1\CO\Verilog_Project\P5_L0_test_2023_bltzal/W_REG.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module IFU
+Compiling module NPC
+Compiling module D_REG
+Compiling module Controller
+Compiling module EXT
+Compiling module GRF
+Compiling module CMP
+Compiling module E_REG
+Compiling module ALU
+Compiling module M_REG
+Compiling module DM
+Compiling module W_REG
+Compiling module STALL
+Compiling module mips
+Compiling module generated_mips_test
+Time Resolution for simulation is 1ps.
+Compiled 15 Verilog Units
+Built simulation executable mips.exe
+Fuse Memory Usage: 32472 KB
+Fuse CPU Usage: 62 ms
